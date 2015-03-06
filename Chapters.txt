@@ -1,0 +1,53 @@
+UNIX Chapters
+
+
+Beginners
+- File Management
+- Directories
+- File Permission
+- Environment
+- Basic Utilities
+- Pipes & Filters
+- Processes
+
+Shell Programming
+- Using Variables
+- SPecial Variables
+- Using Arrays
+- Basic Operators
+- Decision Making
+- Shell Loops
+- Loop Control
+- Shell Substitutions
+- QUoting Mechanisms
+
+Advanced Unix
+- Regular Expressions
+- File System Basics
+- User Administration
+- System Performance
+- System Logging
+- Signals and Traps
+
+Others
+- Redirection of Standard I/O
+
+
+
+File Management
+Configuration files
+Basic Commands
+Directories
+Finding files
+Paths, relative and absolute
+tar and tarfiles
+gzip/gunzip
+Permissions
+Quota
+Central Files
+Moving files to and from the Unix systems from off campus
+scratch ($scratch)
+webspace ($WWWHOME)
+mailspace ($MAILHOME)
+Dealing with awkward files
+
