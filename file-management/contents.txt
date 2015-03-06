@@ -1,0 +1,17 @@
+File Management
+
+Configuration files
+Basic Commands
+Directories
+Finding files
+Paths, relative and absolute
+tar and tarfiles
+gzip/gunzip
+Permissions
+Quota
+Central Files
+Moving files to and from the Unix systems from off campus
+scratch ($scratch)
+webspace ($WWWHOME)
+mailspace ($MAILHOME)
+Dealing with awkward files
