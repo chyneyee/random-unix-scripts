@@ -4,7 +4,7 @@
 
 # assign awk output to 'name' variable.
 # The uid is the third field in /etc/passwd.
-# if uid from argument same as third field value, print full name (fifth field)i
+# if uid from argument same as third field value, print full name (fifth field)
 # Reference: http://www.cyberciti.biz/faq/understanding-etcpasswd-file-format/
 uinfo=$(awk -v val=$1 -F ":" '$3==val{print "Name: "$5"\nHome Directory: "$6"\nGroup ID: "$4}' /etc/passwd)
 echo "$uinfo"
