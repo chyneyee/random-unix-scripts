@@ -1,3 +1,5 @@
+# An awk script which displays all lines except the first two.
+
 #!/bin/awk -f
 
 BEGIN{i=1;}
