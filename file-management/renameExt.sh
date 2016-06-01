@@ -1,6 +1,6 @@
 #/bin/bash
 
-#Renames all .txt files as .text files.
+#Rename all .txt files as .text files.
 
 for f in *.txt
 do
